@@ -81,7 +81,7 @@ author:
   bio              : "Assistant Professor in Department of Kinesiology, McMaster University"
   location         : "Hamilton, ON"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=al-khazraji+b&sort=date"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=al-khazraji+b"
   googlescholar    : "https://scholar.google.com/citations?user=58Ezki0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -92,14 +92,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "alkhazrb"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
