@@ -3,7 +3,7 @@ title: "Research Opportunities"
 excerpt: ""
 collection: portfolio
 ---
-## We are currently recruiting for Fall 2021, Winter 2022 and Fall 2022.<br/> 
+## We are currently recruiting for Fall 2021, Winter 2022 and Fall 2022.
 ### Current opportunities:<br/>
 - PhD students<br/>
 - MSc students<br/>
