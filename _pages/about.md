@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to the Peripheral and Cerebral Hemodynamics Lab (PeACH Lab)"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Dr. Baraa K. Al-Khazraji is an Assistant Professor in the Department of Kinesiology, Faculty of Science, McMaster University. Baraa received her Doctorate of Medical Biophysics in the area of skeletal muscle microvascular control from Western University, and her postdoctoral trianing in Kinesiology in the area of integrative cardiovascular and cerebrovascular control. Her research areas of interests include local and systemic hemodynamics, clinical populations and vascular-related comorbidities, and exercise interventions. Her growing technical areas of interest are automating medical image analysis, advanced statistical approaches (e.g., machine learning), and application of AI methods in vascular research. Teaching interests include integrative cardiovascular physiology, cardiopathophysiology, and introductory hemodynamic data analysis.
 
 For prospective students
 ------
