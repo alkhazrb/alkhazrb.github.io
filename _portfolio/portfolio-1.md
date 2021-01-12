@@ -1,6 +1,6 @@
 ---
 title: "Trainees"
-excerpt: "Michelle Mei, BSc<br/><img src='/images/MMei.png'>"
+excerpt: "Michelle Mei, BSc <br/><img src='/images/MMei.png'>"
 collection: portfolio
 ---
 
