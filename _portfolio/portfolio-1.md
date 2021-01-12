@@ -4,7 +4,7 @@ excerpt: " "
 collection: portfolio
 ---
 
-Michelle Mei, BSc <br/><img src='/images/MMei.png'>
+Michelle Mei, BSc <br/><img src='/images/MMei.PNG'>
 
 Elric Allison, BSc <br/><img src='/images/EAllison.png'>
 
