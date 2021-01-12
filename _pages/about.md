@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Peripheral and Cerebral Hemodynamics Lab (PeACH Lab"
+title: "Welcome to the Peripheral and Cerebral Hemodynamics Lab (PeACH Lab)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-For more info
+For prospective students
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Please see the Research tab above.
