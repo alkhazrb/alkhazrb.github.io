@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baraa K. Al-Khazraji"
+title                    : "Dr. Baraa K. Al-Khazraji"
 title_separator          : "-"
 name                     : &name "Dr. Baraa K. Al-Khazraji"
 description              : &description "Assistant Professor in Department of Kinesiology, McMaster University"
@@ -76,7 +76,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Baraa K. Al-Khazraji"
+  name             : "Baraa K. Al-Khazraji"
   avatar           : "baraafacultyphoto.png"
   bio              : "Assistant Professor in Department of Kinesiology, McMaster University"
   location         : "Hamilton, ON"
