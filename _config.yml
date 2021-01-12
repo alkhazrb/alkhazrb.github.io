@@ -234,7 +234,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "alkhazrb/lab/_talks.github.io"
       type: talks
     values:
       layout: talk
