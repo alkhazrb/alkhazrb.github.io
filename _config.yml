@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Baraa K. Al-Khazraji"
+title                    : "Dr. Baraa K. Al-Khazraji"
 title_separator          : "-"
-name                     : &name "Dr. Baraa Al-Khazraji"
+name                     : &name "Baraa K. Al-Khazraji"
 description              : &description "Assistant Professor in Department of Kinesiology, McMaster University"
 url                      : https://alkhazrb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/baraa" # the subpath of your site, e.g. "/blog"
