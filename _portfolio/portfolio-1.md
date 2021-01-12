@@ -1,6 +1,6 @@
 ---
 title: "Trainees"
-excerpt: ""
+excerpt: " "
 collection: portfolio
 ---
 
