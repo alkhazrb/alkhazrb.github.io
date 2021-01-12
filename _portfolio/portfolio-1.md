@@ -1,5 +1,5 @@
 ---
-title: "Trainees"
+title: "Current Trainees"
 excerpt: " "
 collection: portfolio
 ---
