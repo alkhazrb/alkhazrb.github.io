@@ -4,11 +4,9 @@ excerpt: ""
 collection: portfolio
 ---
 ## We are currently recruiting for Fall 2021, Winter 2022 and Fall 2022.<br/> 
-<br/>
 ### Current opportunities:<br/>
 - PhD students<br/>
 - MSc students<br/>
-<br/>
 
 ### Preference will be given to students with:<br/>
 - proven excellent written and oral communication skills in English<br/>
@@ -16,9 +14,7 @@ collection: portfolio
 - a minimum grade point average of A-<br/>
 - a "team player" mindset<br/>
 - an eagerness to immerse themselves in self-directed learning<br/>
-<br/>
 
 Students interested in applying can send their CV, unofficial transcripts, and a letter of interest to Dr. Al-Khazraji.<br/>
-<br/>
 
 Dr. Al-Khazraji will contact the top candidates for an interview and the selected candidates will then be asked to apply to the McMaster University Department of Kinesiology Graduate Program.
