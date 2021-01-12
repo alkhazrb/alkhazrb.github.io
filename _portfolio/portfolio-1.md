@@ -1,7 +1,9 @@
 ---
 title: "Trainees"
-excerpt: "Michelle Mei, BSc <br/><img src='/images/MMei.png'>"
+excerpt: "Michelle Mei, BSc"
 collection: portfolio
 ---
+
+<br/><img src='/images/MMei.png'>
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
