@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr. Baraa K. Al-Khazraji"
 title_separator          : "-"
-name                     : &name "Dr. Baraa K. Al-Khazraji"
-description              : &description "Assistant Professor in Department of Kinesiology, McMaster University"
+name                     : &name "Baraa K. Al-Khazraji"
+description              : &description "Assistant Professor in Department of Kinesiology"
 url                      : https://alkhazrb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alkhazrb.github.io"
@@ -78,9 +78,9 @@ analytics:
 author:
   name             : "Baraa K. Al-Khazraji"
   avatar           : "baraafacultyphoto.png"
-  bio              : "Assistant Professor in Department of Kinesiology, McMaster University"
+  bio              : "Vascular physiology, MRI and ultrasound imaging, hemodynamics; Assistant Professor in Department of Kinesiology"
   location         : "Hamilton, ON"
-  employer         :
+  employer         : "McMaster University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=al-khazraji+b"
   googlescholar    : "https://scholar.google.com/citations?user=58Ezki0AAAAJ&hl=en"
   email            : "alkhazrb at mcmaster dot ca"
