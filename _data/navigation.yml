@@ -5,6 +5,9 @@ main:
     
   - title: "Current Trainees"
     url: /trainees/ 
+    
+  - title: "Joining the Lab"
+    url: /join/
 
   - title: "Talks"
     url: /talks/    
