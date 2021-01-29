@@ -11,4 +11,4 @@ Dr. Baraa K. Al-Khazraji is an Assistant Professor in the Department of Kinesiol
 
 For prospective students
 ------
-Please see the Research tab above.
+Please see the "Joining the Lab" tab above.
