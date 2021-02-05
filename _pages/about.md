@@ -15,4 +15,4 @@ Baraa teaches upper level courses in Kinesiology focused on integrative cardiova
 
 For prospective students
 ------
-Please see the "Joining the Lab" tab above.
+Please see the [Joining the Lab](https://alkhazrb.github.io/join/ "Join the Lab") tab above.
